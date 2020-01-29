@@ -36,9 +36,9 @@ Code: 200
 url = "http://YOUR-POSTBOX-HOST/mail"
 files = {'file': open('file.txt', 'rb')}
 values = {
-    "to": ["byunseob@42maru.com", "wet814@42maru.com"],
-    "cc": ["byunseob@42maru.com", "wet814@42maru.com"],
-    "subject": "제목",
+    "to": ["test@gmail.com]", "[test2@gmail.com"],
+    "cc": ["test@gmail.com]", "[test2@gmail.com"],
+    "subject": "title",
     "content": "hi",
     "alias": "byunseob",
     "content_type": "html"
