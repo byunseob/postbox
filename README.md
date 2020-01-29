@@ -18,7 +18,7 @@ $ docker-compose up -d
 ### Body
  - to = [ (string, array) | required ] to_mail_address
  - cc = [ (string, array) | required ] cc_mail_address
- - alias = [string] mail sender alias (default: 42Maru Team)
+ - alias = [string] mail sender alias (default: "byunseob")
  - subject = [ string | required ]
  - content = [ string(html) | required ] mail body
  - content_type = [string | ('html', 'plain')] mal_type (default: html)
