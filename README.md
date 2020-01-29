@@ -30,7 +30,7 @@ Code: 200
     "data": "success"
 }
 ```            
-##Sample Call
+## Sample Call
 
 ```
 url = "http://YOUR-POSTBOX-HOST/mail"
