@@ -1,4 +1,4 @@
-##POSTBOX
+## POSTBOX
 ```
 Post Box is a simple restful mail delivery web application consisting of a flask.
 ```
