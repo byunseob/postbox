@@ -13,9 +13,9 @@ $ docker-compose up -d
 ```
 
 
-###Method
+### Method
  - POST
-###Body
+### Body
  - to = [ (string, array) | required ] to_mail_address
  - cc = [ (string, array) | required ] cc_mail_address
  - alias = [string] mail sender alias (default: 42Maru Team)
@@ -23,7 +23,7 @@ $ docker-compose up -d
  - content = [ string(html) | required ] mail body
  - content_type = [string | ('html', 'plain')] mal_type (default: html)
  - file = [file] attach file
-###Success Response
+### Success Response
 ```
 Code: 200
 {
