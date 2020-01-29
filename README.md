@@ -4,6 +4,11 @@ Post Box is a simple restful mail delivery web application consisting of a flask
 ```
 ### docker run
 ```
+$ git clone git@github.com:byunseob/postbox.git
+
+Change env (SMTP, ACCOUNT, PASSWORD)
+ 
+$ docker-compose up -d
 
 ```
 
